@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import myData from './site-data.json';
+import myData from '../data/site-data.json';
 import LazyLoad from 'react-lazy-load'
 
 class Grid extends Component {

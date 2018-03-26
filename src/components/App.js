@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
-import './css/App.css';
-import linkedinLogo from './img/linkedin_logo.png';
+import '../css/App.css';
+import linkedinLogo from '../img/linkedin_logo.png';
 import Nav from './Nav.js';
 import Grid from './Grid.js';
 import Modal from './Modal.js';

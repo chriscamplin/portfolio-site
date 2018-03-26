@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import { push as Menu } from 'react-burger-menu';
-import './css/BurgerMenu.css';
+import '../css/BurgerMenu.css';
 
 class Nav extends Component {
   render() {
